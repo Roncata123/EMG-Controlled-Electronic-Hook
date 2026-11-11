@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Library1") (type "KiCad") (uri "C:/Users/ron/OneDrive/שולחן העבודה/GitProjs/EMG-Controlled-Electronic-Hook/Circuit Designs/EMG2BT_Rev_A/Library1.pretty") (options "") (descr ""))
+)
